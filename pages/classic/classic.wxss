@@ -1,0 +1,22 @@
+.chunk {
+    width: 100px;
+    height: 100px;
+  
+}
+.container {
+    display: flex;
+    border: 1px solid black; 
+    height: 400px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+.color1 {
+      background-color: brown;
+}
+.color2 {
+      background-color: greenyellow;
+}
+.color3 {
+      background-color: blueviolet;
+}
